@@ -41,7 +41,7 @@ Clone the repository and open the project in Arduino IDE:
 
 ```bash
 git clone https://github.com/Joliaus/Blind_Guidance.git
-cd blind-guidance-system
+cd Blind_Guidance
 ```
 
 Make sure to:
