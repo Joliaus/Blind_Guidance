@@ -53,6 +53,12 @@ Make sure to:
 
 The system continuously measures the distance using the HC-SR04 sensor. If an object is detected closer than the threshold, it plays an audio message via the speaker to warn the user.
 
+## 3D Modeling
+
+Below is a 3D rendering of the device's custom case, designed using Autodesk Fusion 360:
+
+![3D Model](![image](https://github.com/user-attachments/assets/1bfaee1f-574b-4cd8-8136-2f2eece8078c))  
+
 ## Future Improvements
 
 - Reduce enclosure size and improve ergonomics.
