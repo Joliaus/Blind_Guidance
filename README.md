@@ -40,7 +40,7 @@ The goal of this system is to provide real-time obstacle detection and audio fee
 Clone the repository and open the project in Arduino IDE:
 
 ```bash
-git clone https://github.com/your-username/blind-guidance-system.git
+git clone https://github.com/Joliaus/Blind_Guidance.git
 cd blind-guidance-system
 ```
 
@@ -59,5 +59,3 @@ The system continuously measures the distance using the HC-SR04 sensor. If an ob
 - Support for Bluetooth headphones.
 - Add voltage regulation using LM2596 module.
 - Customize messages based on distance.
-
-## Authors
