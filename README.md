@@ -59,6 +59,12 @@ Below is a 3D rendering of the device's custom case, designed using Autodesk Fus
 
 ![3D Model](https://github.com/user-attachments/assets/1bfaee1f-574b-4cd8-8136-2f2eece8078c)  
 
+## Electronic Schematic
+
+The following schematic illustrates the complete wiring of the system, including the sensor, speaker, SD card reader, and microcontroller:
+
+![Electronic Schematic](https://github.com/user-attachments/assets/ff1743be-cf78-47e4-8510-feff5e64eb84)  
+
 ## Future Improvements
 
 - Reduce enclosure size and improve ergonomics.
