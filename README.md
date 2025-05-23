@@ -35,6 +35,18 @@ The goal of this system is to provide real-time obstacle detection and audio fee
 - **TMRpcm Library** (for audio playback):  
   Install via Library Manager or from [TMRpcm on Arduino](https://www.arduino.cc/reference/en/libraries/tmrpcm/)
 
+## 3D Modeling
+
+Below is a 3D rendering of the device's custom case, designed using Autodesk Fusion 360:
+
+![3D Model](https://github.com/user-attachments/assets/1bfaee1f-574b-4cd8-8136-2f2eece8078c)  
+
+## Electronic Schematic
+
+The following schematic illustrates the complete wiring of the system, including the sensor, speaker, SD card reader, and microcontroller:
+
+![Electronic Schematic](https://github.com/user-attachments/assets/ff1743be-cf78-47e4-8510-feff5e64eb84)  
+
 ## Installation and Compilation
 
 Clone the repository and open the project in Arduino IDE:
@@ -52,18 +64,6 @@ Make sure to:
 ## How It Works
 
 The system continuously measures the distance using the HC-SR04 sensor. If an object is detected closer than the threshold, it plays an audio message via the speaker to warn the user.
-
-## 3D Modeling
-
-Below is a 3D rendering of the device's custom case, designed using Autodesk Fusion 360:
-
-![3D Model](https://github.com/user-attachments/assets/1bfaee1f-574b-4cd8-8136-2f2eece8078c)  
-
-## Electronic Schematic
-
-The following schematic illustrates the complete wiring of the system, including the sensor, speaker, SD card reader, and microcontroller:
-
-![Electronic Schematic](https://github.com/user-attachments/assets/ff1743be-cf78-47e4-8510-feff5e64eb84)  
 
 ## Future Improvements
 
